@@ -1,6 +1,4 @@
 //Comma Separated Values (CSV) Demo
-//1, Eda, Yavuz,542-251-7764
-
 // First let's do a little reading about the library we're about to use: https://joshclose.github.io/CsvHelper/getting-started/
 
 
